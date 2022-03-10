@@ -5,7 +5,7 @@
 
 ## API  functionality was tested with postman.
 
-## To see all categories as well as producs associated with particular category
+## To see all categories as well as products associated with particular category
 
 ### http://localhost:2022/categories
 
